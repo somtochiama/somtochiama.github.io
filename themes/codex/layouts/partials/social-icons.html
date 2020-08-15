@@ -1,0 +1,15 @@
+{{ $currentPage := . }}
+{{ $icons := .Site.Params.iconOrder | default (slice "Twitter" "GitHub" "Email" "Facebook" "GitLab" "Instagram" "LinkedIn" "YouTube") }}
+
+<div class="social-icons">
+  {{ range $icons }}
+  {{ $icon := anchorize . }}
+  {{ if isset $currentPage.Site.Params $icon }}
+  <a class="social-icons__link" title="{{ . }}" href="{{ index $currentPage.Site.Params $icon }}" target="_blank"
+    rel="noopener">
+    {{ $path := print "svg/" $icon ".svg" }}
+    {{ readFile $path | replaceRE "feather" "feather social-icons__icon" | safeHTML}}
+  </a>
+  {{ end }}
+  {{ end }}
+</div>
