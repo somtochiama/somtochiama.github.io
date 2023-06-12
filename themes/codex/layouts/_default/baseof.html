@@ -35,9 +35,9 @@
     <link type="text/css" rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}"/>
   {{ end }}
   
-  {{ range .AlternativeOutputFormats }} 
-  {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }} 
-  {{ end }} 
+  {{ range .AlternativeOutputFormats }}
+  {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .MediaType.FirstSuffix.Suffix .Permalink $.Site.Title | safeHTML }}
+  {{ end }}
   {{ block "links" . }} {{ end }}
   {{ partial "seo-schema.html" .}}
 
