@@ -4,11 +4,3 @@
 [submodule "themes/codex"]
 	path = themes/codex
 	url = https://github.com/jakewies/hugo-theme-codex.git
-[submodule "destination"]
-	path = destination
-	url = https://github.com/SomtochiAma/somtochiama.github.io.git
-	branch = master
-[submodule "public"]
-	path = public
-	url = https://github.com/SomtochiAma/somtochiama.github.io.git
-	branch = master

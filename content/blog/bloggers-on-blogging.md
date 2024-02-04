@@ -1,16 +1,16 @@
 ---
-title: "On Blogging: Jeff Atwood, Steve Yegge, Julia Evans and Co"
+title: "Bloggers on Blogging"
 date: 2023-06-12T12:31:27+01:00
 slug: "favourite bloggers on blogger"
 description: "My favourite bloggers on blogger"
-keywords: ["blogging", "blogs"]
+keywords: ["blogging", "blogs", "advice"]
 draft: false
 tags: []
 math: false
 toc: false
 ---
 
-I have spent a long time convincing myself to start a blog and in doing that I have stumbled upon good advice on 
+I have spent a sometime convincing myself to start a blog and in doing that I have stumbled upon good advice on 
 blogging. So I decided to publish a post each week to get my engines started. I am starting off by compiling a list of
 links from people I follow/read their blogs on why you should blog.
 
@@ -19,11 +19,11 @@ links from people I follow/read their blogs on why you should blog.
 Jeff writes at [https://blog.codinghorror.com](https://blog.codinghorror.com/) which is one of my favourite blogs.
 
 > When people ask me for advice on blogging, I always respond with yet another form of the same advice
-**pick a schedule you can live with, and _stick to it_. Until you do that, none of the other advice I could give
-you will matter.** I don't care if you [suck at writing](https://blog.codinghorror.com/fear-of-writing/).
-I don't care if [nobody reads your blog](https://blog.codinghorror.com/users-dont-care-about-you/). I don't care
-if you have [nothing interesting to say](https://blog.codinghorror.com/blogging-about-blogging/). If you can
-demonstrate a willingness to write, and a desire to keep continually improving your writing, you will eventually be successful.
+> **pick a schedule you can live with, and _stick to it_. Until you do that, none of the other advice I could give
+> you will matter.** I don't care if you [suck at writing](https://blog.codinghorror.com/fear-of-writing/).
+> I don't care if [nobody reads your blog](https://blog.codinghorror.com/users-dont-care-about-you/). I don't care
+> if you have [nothing interesting to say](https://blog.codinghorror.com/blogging-about-blogging/). If you can
+> demonstrate a willingness to write, and a desire to keep continually improving your writing, you will eventually be successful.
 
 ## Ben Kuhn: [Writing](https://www.benkuhn.net/writing)
 
@@ -79,4 +79,4 @@ I am mostly writing this for myself, in case I occasionally need a reminder.
 The core of the advice on these links is just to get started! More specifically, start writing(and publishing)
 at a particular cadence online.
 
-You know a lot of cool stuff you should share them :).
+You know a lot of cool stuff, you should share them :).
