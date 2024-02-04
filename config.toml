@@ -63,3 +63,7 @@ copyright = "© 2020"
   name = "blog"
   title = "Blog"
   url = "/blog"
+
+[services]
+  [services.disqus]
+    shortname = 'your-disqus-shortname'
