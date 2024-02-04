@@ -66,4 +66,4 @@ copyright = "© 2020"
 
 [services]
   [services.disqus]
-    shortname = 'your-disqus-shortname'
+    shortname = 'somtochi-blog'
