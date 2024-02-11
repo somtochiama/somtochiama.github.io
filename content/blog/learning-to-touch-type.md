@@ -1,6 +1,6 @@
 ---
 title: "Learning to Touch type"
-date: 2024-02-11T22:51:24+01:00
+date: 2024-02-10T22:51:24+01:00
 slug: ""
 description: "Quick log about how I got to touch typing at 50 wpm from hunt-and-peek in roughly 6 months."
 keywords: ["touch-type", "typing"]
