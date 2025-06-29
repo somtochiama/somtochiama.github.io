@@ -10,7 +10,7 @@ math: false
 toc: false
 ---
 
-## May Lord, If I may?
+## My Lord, If I may?
 
 Welcome, wanderers, to my corner of the internet. However you may have stumbled into this rough path, it matters not. This is my space and you are definitely welcome. This place houses my writings - technical or non-technical, rants, and what not.
 

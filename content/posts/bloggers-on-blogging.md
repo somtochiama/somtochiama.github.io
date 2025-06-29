@@ -10,7 +10,7 @@ math: false
 toc: false
 ---
 
-I have spent a sometime convincing myself to start a blog and in doing that I have stumbled upon good advice on 
+I have spent a sometime convincing myself to start a blog and in doing that I have stumbled upon good advice on
 blogging. So I decided to publish a post each week to get my engines started. I am starting off by compiling a list of
 links from people I follow/read their blogs on why you should blog.
 
@@ -38,7 +38,7 @@ Ben Kuhn goes more in-depth on how and why you should blog.
 ## Alex Guezy: [Why You Should Start A Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 
 > This fact is very frequently lost when discussing writing: **writing not only helps you to understand
-> what’s going on and to crystallize your thoughts, it actually makes you think of new ideas and come 
+> what’s going on and to crystallize your thoughts, it actually makes you think of new ideas and come
 > up with solutions to your problems.**
 
 ## Steve Yegge: [You should write blogs](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
@@ -56,14 +56,14 @@ This is more about getting a sense of what to blog about, especially for program
 Notice the crease, parts that don’t make sense, delve deeper into them and write about them.
 
 > The process I use for a lot of my blog posts is:
-> 
+>
 > 1. Struggle with something (usually computer-related)
 > 2. Eventually (days or months or years later), figure out how to solve some of the problems I had
 > 3. Write a blog post about what helped me
 
 ## David Perrell: [Why you should write](https://perell.com/essay/why-you-should-write):
 
-Perrell’s not really into tech but has some good writing tips. He also runs an online writing school [Write of Passage](https://writeofpassage.school/): 
+Perrell’s not really into tech but has some good writing tips. He also runs an online writing school [Write of Passage](https://writeofpassage.school/):
 
 > Words are the atomic unit of the internet.
 > With the stroke of a pen, you can build your network, improve your thinking, and create opportunities for yourself.

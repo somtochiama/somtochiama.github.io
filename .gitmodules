@@ -1,6 +1,7 @@
-[submodule "hugo-theme-codex"]
-	path = hugo-theme-codex
-	url = https://github.com/jakewies/hugo-theme-codex.git
 [submodule "themes/codex"]
 	path = themes/codex
 	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "themes/kiera"]
+	path = themes/kiera
+	url = https://github.com/funkydan2/hugo-kiera
+
