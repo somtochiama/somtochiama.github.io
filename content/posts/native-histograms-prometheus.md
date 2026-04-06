@@ -7,8 +7,6 @@ categories = ["prometheus", "technical"]
 draft = false
 +++
 
-## Introduction
-
 Histogram is a metric type in Prometheus used to track the number (and sums) of observations such as  latency and response times. It allows you to answer questions like `how many requests were completed under 100ms`. In version 2.24.0, Prometheus added support for a new type of histograms called native histogram. This new histogram is similar to the original classic histograms but differ in how bucket boundaries are determined, and how the histogram data structure is represented internally.
 
 Unlike classic histograms, which rely on statically configured bucket boundaries, native histograms do not require predefined boundaries. Instead, they use a schema that determines how bucket boundaries are calculated. This approach allows for a potentially infinite number of buckets while remaining memory-efficient because native histograms are sparse, buckets with zero observations consume almost no space. This blog takes a peek at native histograms.
